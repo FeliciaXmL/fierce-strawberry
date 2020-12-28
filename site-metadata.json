@@ -50,6 +50,13 @@
                 "new_window": true
             },
             {
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/",
+                "style": "icon",
+                "icon_class": "fa-linkedin",
+                "new_window": true
+            },
+            {
                 "label": "Instagram",
                 "url": "https://www.instagram.com/",
                 "style": "icon",
@@ -61,13 +68,6 @@
                 "url": "https://dribbble.com/",
                 "style": "icon",
                 "icon_class": "fa-dribbble",
-                "new_window": true
-            },
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "icon",
-                "icon_class": "fa-linkedin",
                 "new_window": true
             }
         ]
